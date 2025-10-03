@@ -1,4 +1,5 @@
 # test_f
+Note: the code in this repository is for test purposes only. It does not follow best practices or be optimized for production use.
 
 This project is for test purposes. 
 It does the following tasks:
